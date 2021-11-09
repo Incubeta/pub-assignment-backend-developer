@@ -2,14 +2,13 @@
 
 ## Business case
 
-This assignment will use a real-life use-case that we also needed to solve for our existing client. However, we simplified the scenario a bit to make it solvable within 3-4 hours.
-
-In our scenario, you will get two CSV that contains flight data. The data structure is the same for both files, but the data is different.
+This assignment will use a real-life use-case that we also needed to solve for our existing client. However, we simplified the scenario a bit to make it solvable within 3-4 hours. In this modified scenario, we ask you to write a server application that serves client requests from a database through a REST API. For the data layer, you will get two CSV's that contains flight data. The data structure is the same for both files, but the data is different.
 
 ## Before you start - preparation
 
-- Make sure you book enough time for yourself to complete this assignment. Based on our experience maximum 3-4 hours should be enough to deliver a good quality solution
-- 
+- Make sure you book enough time for yourself to complete this assignment. Based on our experience maximum 3-4 hours should be enough to deliver a solution.
+- Your solution should be in a private repository. Once you created one please don't forget to invite us, so we can track your progress. Our accounts: https://gitlab.com/S4n3L, ...
+- Use commits and commit messages as you would work in our team already. We intend to check your timestamps to know how much time you needed to spend with certain tasks.
 
 ***Step 1***
 
