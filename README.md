@@ -38,4 +38,4 @@ Present an export in ***any*** format for the following API request:
 
 * All direct and indirect flights from Dar es Salaam to the USA with all different prices. Departure date of start flight > 2021-11-12 and < 2021-11-22
 
-We wish you a great time with this assignment. Truest us: you have nothing to fear and we hope you can make it, so we can welcome you in our team! See you in the other side! :)
+***We wish you a great time with this assignment. Truest us: you have nothing to fear and we hope you can make it, so we can welcome you in our team! See you in the other side! :)***
