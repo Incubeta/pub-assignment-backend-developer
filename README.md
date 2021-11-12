@@ -13,7 +13,7 @@ This assignment will use a real-life use-case that we also needed to solve for o
 
 ## Step 1
 
-Links to the CSV files: file 1, [file_2](./feed-google-qatar-application-side.csv)
+Links to the CSV files: [file_1](./feed-google-qatar-api-side.csv), [file_2](./feed-google-qatar-application-side.csv)
 
 1. Take the second CSV file, examine the data and create a normalized data structure that represents the data.
 2. Create a backend application that accepts client requests regarding the flight data and serves the requests from the database you created.
