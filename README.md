@@ -5,6 +5,11 @@
 This assignment will use a real-life use-case that we also needed to solve for our existing client. However, we simplified the scenario a bit to make it solvable within 3-4 hours. In this modified scenario, we ask you to write a server application that serves client requests from a database through a REST API. For the data layer, you will get two CSV's that contains flight data. The data structure is the same for both files, but the data is different.
 
 ## Before you start - preparation
+Certainly! Here's a revised version with corrected spelling and grammar:
+
+> Please note that the assignment consists of three steps. We do not expect you to implement all three steps, but at least one is required.
+> What needs to be included in the solution is an overall conceptual plan for how you would approach the steps. How you present that is up to you.
+> Of course, if you want to implement the complete solution, feel free!
 
 - Make sure you book enough time for yourself to complete this assignment. Based on our experience maximum 3-4 hours should be enough to deliver a solution.
 - Your solution should be in a private repository. Once you created one please don't forget to invite us, so we can track your progress. Our accounts: https://github.com/S4n3L, https://github.com/miguelosana, https://github.com/baspenny
