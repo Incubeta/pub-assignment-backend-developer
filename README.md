@@ -11,7 +11,7 @@ about flights and prices.
 
 We simplified the scenario a bit to make it solvable within 3-4 hours. 
 In this modified scenario, we ask you to write a server application that serves client requests from a datastore 
-through a REST API. For the data layer, you will get two CSV's that contains flight data. The data structure is 
+through a REST API written in Python. For the data layer, you will get two CSV's that contains flight data. The data structure is 
 the same for both files, but the data is different.
 
 ## Before you start - preparation
