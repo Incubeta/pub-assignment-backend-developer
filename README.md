@@ -50,7 +50,8 @@ Result example:
 ## Step 2
 
 Consider the first CSV file as the primary data source of your API. Ensure that your API will synchronise with this data source periodically 
-and the data in your database is accurate (the second file is the fresh delta). Make sure that you remove the data that is not present in the primary source and add additional data if present.
+and the data in your database is accurate (the second file is the fresh delta). Make sure that you remove the data that is not present in the primary source and add additional data if present.  
+> Also consider the availability of the API during the update process!
 ```
 Requirements:  
 -------------
