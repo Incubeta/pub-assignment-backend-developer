@@ -26,6 +26,7 @@ Our accounts:
   - https://github.com/S4n3L
   - https://github.com/miguelosana
   - https://github.com/baspenny
+  - https://github.com/TonMarton
 - Use commits and commit messages as you would work in our team already. We intend to check your timestamps to know how much time you needed to spend with certain tasks.
 - Please make sure that your application runs in a Docker environment. We are happy to see a good enough test coverage and a `README` file that describes how we can deploy and use the application.
 
